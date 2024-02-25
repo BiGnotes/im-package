@@ -1,0 +1,20 @@
+//=============多仓更新日期 2023/06/23=============
+
+//本多仓仓库在线链接：
+//https://ghproxy.com/https://raw.githubusercontent.com/mengzehe/tvbox/main/自用多仓
+//https://raw.iqiq.io/mengzehe/tvbox/main/自用多仓
+
+
+{"storeHouse": 
+[ 
+{"sourceName":"多多|饭太硬","sourceUrl":"http://饭太硬.top/tv" }, 
+{"sourceName":"多多|肥猫","sourceUrl":"http://肥猫.live" }, 
+{"sourceName":"多多|PG","sourceUrl":"https://agit.ai/leevi/PiG/raw/branch/master/jsm.json"},
+{"sourceName":"多多|道长","sourceUrl":"https://pastebin.com/raw/5NHaxyGR"},
+{"sourceName":"多多|香雅情","sourceUrl":"https://ghproxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json"},
+{"sourceName":"多多|小米","sourceUrl":"http://xhww.fun/小米/DEMO.json"},
+{"sourceName":"多多|刘备","sourceUrl":"https://raw.liucn.cc/box/m.json"},
+{"sourceName":"多多|荷城茶秀","sourceUrl":"http://rihou.cc:88/荷城茶秀" }, 
+{"sourceName":"多多|南风","sourceUrl":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json" }
+] 
+}
